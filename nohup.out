@@ -1,0 +1,18 @@
+[W 15:37:03.991 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 15:37:03.997 NotebookApp] Serving notebooks from local directory: /home/yuta.yoshida/git/semantic_segmentation
+[I 15:37:03.997 NotebookApp] 0 active kernels
+[I 15:37:03.997 NotebookApp] The Jupyter Notebook is running at:
+[I 15:37:03.997 NotebookApp] http://[all ip addresses on your system]:8888/?token=cc6027786a3338eac518740995be7bf82d520932bc50290f
+[I 15:37:03.997 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:37:04.000 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=cc6027786a3338eac518740995be7bf82d520932bc50290f
+[W 15:37:07.529 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20180925153703 (172.30.1.3) 12.14ms referer=http://192.168.221.7:32956/tree/jupyter_notebook
+[I 15:37:13.192 NotebookApp] Creating new notebook in /jupyter_notebook
+[W 15:37:15.138 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20180925153703 (172.30.1.3) 1.19ms referer=http://192.168.221.7:32956/notebooks/jupyter_notebook/Untitled.ipynb?kernel_name=python3
+[W 15:37:15.241 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180925153703 (172.30.1.3) 4.29ms referer=http://192.168.221.7:32956/notebooks/jupyter_notebook/Untitled.ipynb?kernel_name=python3
+[I 15:37:15.421 NotebookApp] Kernel started: 7c3d2c19-918b-4f7b-9439-b9e17c155aa0
+[I 15:37:16.184 NotebookApp] Adapting to protocol v5.1 for kernel 7c3d2c19-918b-4f7b-9439-b9e17c155aa0
+[I 15:39:15.517 NotebookApp] Saving file at /jupyter_notebook/Untitled.ipynb
